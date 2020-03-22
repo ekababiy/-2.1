@@ -1,0 +1,2 @@
+# ekababiy
+проект NeuroStartUp
